@@ -1,5 +1,9 @@
 # fudbal-app
 
+## Online 
+
+https://prijava-za-fudbal-v2.netlify.app/
+
 ## Project setup
 ```
 npm install
