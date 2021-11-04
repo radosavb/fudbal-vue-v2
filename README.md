@@ -1,8 +1,8 @@
 # fudbal-app
 
-With this app you can register, create profile, log in and apply, or apply a friend for a football game on any day of the week.  
-You can also cancel coming for you or for a friend and see other users profiles.  
-Backend developed and db created with Google Firebase.
+With this app you can register, create a profile, log in and apply, or apply a friend for a football game on any day of the week.  
+You can also cancel coming for you or for a friend and see other users profile.  
+Backend developed and database created with Google Firebase.
 
 ## Online 
 
