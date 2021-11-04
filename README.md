@@ -1,5 +1,9 @@
 # fudbal-app
 
+With this app you can register, create profile, log in and apply, or apply a friend for a football game on any day of the week.  
+You can also cancel coming for you or for a friend and see other users profiles.  
+Backend developed and db created with Google Firebase.
+
 ## Online 
 
 https://prijava-za-fudbal-v2.netlify.app/
@@ -19,10 +23,3 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
