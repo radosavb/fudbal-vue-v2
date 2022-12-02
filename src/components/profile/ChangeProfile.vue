@@ -1,5 +1,5 @@
 <template>
-  <base-dialog show v-if="isLoading" title="Šaljem podatke na gej server...">
+  <base-dialog show v-if="isLoading" title="Šaljem podatke na server...">
     <base-spinner></base-spinner
   ></base-dialog>
   <form @submit.prevent="changeProfile">
